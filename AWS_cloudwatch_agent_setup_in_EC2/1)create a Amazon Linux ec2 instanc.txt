@@ -36,3 +36,5 @@ for vi exit type :wq!
 
 6) Go to cloudwatch -> All metrics -> CWAGENT will be there as metric -> You can create a alarm based on it
 
+7) lsblk will give you-> your disk name eg: xvda1
+
